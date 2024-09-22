@@ -20,9 +20,9 @@ contract MyToken {
 
     // public variables here
 
-    string public nameOfToken = "SRIJAN";
-    string public symbolOfToken = "SKP";
-    uint256 public totalSupply = 0;
+    string public tkn_name = "SRIJAN";
+    string public tkn_abbvy = "SKP";
+    uint256 public ttl_supply = 0;
 
     // mapping variable here
     mapping(address => uint256) public balances;
