@@ -47,7 +47,7 @@ This is a simple ERC-20 token contract implemented in Solidity. The contract all
 
 ## Authors
 
-Shivam Singh  
+Srijan Prabhakar  
 
 ## License
 
